@@ -1,6 +1,6 @@
 package processor
 
-import "cli-tool/repository"
+import "github.com/jeekishy/cli-tool/repository"
 
 // using GO's "Example" test package to validate expected CLI output
 // @url https://go.dev/blog/examples
