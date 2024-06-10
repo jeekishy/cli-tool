@@ -3,7 +3,7 @@ package processor
 import (
 	"fmt"
 
-	"cli-tool/repository"
+	"github.com/jeekishy/cli-tool/repository"
 )
 
 func ProcessResponse(message *repository.Message) {

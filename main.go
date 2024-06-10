@@ -1,14 +1,15 @@
 package main
 
 import (
-	"cli-tool/generator"
-	"cli-tool/processor"
-	"cli-tool/repository"
 	"fmt"
 	"net/http"
 	"os"
 	"strconv"
 	"sync"
+
+	"github.com/jeekishy/cli-tool/generator"
+	"github.com/jeekishy/cli-tool/processor"
+	"github.com/jeekishy/cli-tool/repository"
 )
 
 func init() {

@@ -1,4 +1,4 @@
-module cli-tool
+module github.com/jeekishy/cli-tool
 
 go 1.22.3
 
